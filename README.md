@@ -1,5 +1,14 @@
 ![Learn4Elixir](./resources/img/header_learn_elixir.png)
 
+<p align="center">
+  <a href="https://discord.gg/eXUBTY6HAu">
+      <img src="https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2" alt="Discord">
+  </a>
+  <a href="https://github.com/Universidade-Livre/Learn4Elixir/fork">
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/Universidade-Livre/Learn4Elixir?logo=git&logoColor=D8BFD8&labelColor=9400D3&color=D8BFD8">
+  </a>
+</p>
+
 <p align="justify">
   <i>
   Há muito tempo, o lendário alquimista José Valim supostamente descobriu o segredo para criar 
@@ -64,7 +73,6 @@ próprio tempo e a seu critério, e, em seguida, deve-se abrir um Pull Request (
 
 <p align="justify">
 Caso necessite de feedback sobre sua solução, não hesite em nos chamar pelo canal #hacktoberfest do Discord
-<!-- [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/eXUBTY6HAu) -->
 da Universidade Brasileira Livre. Estaremos sempre disponíveis para ajudá-lo a compreender algum conceito de Elixir 
 que não tenha ficado claro, para corrigir sua solução ou, simplesmente, para incentivá-lo a continuar resolvendo 
 os exercícios.
@@ -111,9 +119,9 @@ Os principais objetivos do projeto Learn4Elixir são:
 
 Começar a aprender com o Learn4Elixir é muito mamão com açúcar, é só:
 
-1. [Fazer um fork desse repositório](#)
+1. [Fazer um fork desse repositório](https://github.com/Universidade-Livre/Learn4Elixir/fork)
 2. Adicione `hacktoberfest` nos "topics" (tópicos) do seu fork. Caso contrário os PRs não vão contar.
-3. [Instale a linguagem Elixir e/ou o Livebook](#)
+3. [Instale a linguagem Elixir e/ou o Livebook](https://github.com/Universidade-Livre/Learn4Elixir/tree/main#instalando-elixir-e-o-livebook)
 4. Abra o `src/Chapter1.livemd` e começe a resolver os desafios.
 5. Após terminar as soluções do capítulo (ou até mesmo se tiver dificuldade e precisar de ajuda) você pode abrir um PR **para o seu fork** com a solução e mencionar @[anabastos](https://github.com/anabastos), @[cherry](https://github.com/cherryramatisdev), @[cyytrus](https://github.com/cyytrus), @[digzom](https://github.com/digzom), @[douglastofoli](https://github.com/douglastofoli), @[eulixir](https://github.com/eulixir), @[lanjoni](https://github.com/lanjoni), @[OtavioSC](https://github.com/otaviosc) ou @[zoedsoupe](https://github.com/zoedsoupe) que vamos ajudá-lo com a revisão de suas soluções.
 
